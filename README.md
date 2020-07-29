@@ -65,17 +65,40 @@ python3 generate_string_session.py
 
 **Termux for drive token**
 
-``` pkg install python wget ```
-``` wget https://raw.githubusercontent.com/sanakek/python-aria-mirror-bot/master/generate_drive_token.py ```
-``` pip install oauth2client ```
-``` python3 generate_drive_token.py ```
+```
+pkg install python wget
+```
+
+```
+wget https://raw.githubusercontent.com/sanakek/python-aria-mirror-bot/master/generate_drive_token.py
+```
+
+```
+pip install oauth2client
+```
+
+```
+python3 generate_drive_token.py
+```
 ___
 
+
 **Termux for string session**
-``` pkg install python wget ``` (if not installed earlier)
-``` wget https://raw.githubusercontent.com/sanakek/python-aria-mirror-bot/master/generate_string_session.py ```
-``` pip install pyrogram tgcrypto ```
-``` python3 generate_string_session.py ```
+```
+pkg install python wget (if not installed earlier)
+```
+
+```
+wget https://raw.githubusercontent.com/sanakek/python-aria-mirror-bot/master/generate_string_session.py
+```
+
+```
+pip install pyrogram tgcrypto
+```
+
+```
+python3 generate_string_session.py
+```
 ___
 
 
